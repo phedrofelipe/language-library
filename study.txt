@@ -1,0 +1,31 @@
+<PROGRAMAÇÃO DESENVOLVIMENTO WEB - INICIAÇÃO DOS ESTUDOS DE RESPONSIVIDADE COM CSS>
+
+
+* CCS UNITS (Unidades de Medidas do CSS):
+Layout Fixo:
+Pixels - 'px'
+
+Layout Fluido:
+Porcentagem - '%'
+Automático - 'auto'
+Viewport Height - 'vh'
+Viewport Width - 'vw' 
+OBS: Viewport simboliza o display/visualização da tela completa, se adaptando automaticamente ao tipo da tela do aparelho que está acessando o site
+
+Textos Fixos:
+1px = 0.75pt
+16px = 12pt
+
+Textos Fluidos:
+'em' - Multiplicado pelo pai (Verifica qual o elemento pai que o conteúdo está e faz uma multiplação por ele)
+'rem' - Multiplado pelo root
+
+
+* BREAK POINTS (Pontos de Quebra do Layout da Página):
+Desktop - 1024px
+Tablet - 768px
+Celular - 425px
+
+
+* META VIEWPORT:
+O meta dado do HTML referente ao Viewport delimita que o content/Layout do conteúdo da página seguirá as medidas da largura do dispositivo onde está sendo criado, tendo a escala inicial de 1.0
